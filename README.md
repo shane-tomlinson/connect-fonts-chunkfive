@@ -24,7 +24,7 @@ const chunkfive = require("connect-fonts-chunkfive");
 
 4. Add a link tag to include the font CSS.
 ```
-    <link href="/en/chunkfive-regular/fonts.css" type="text/css" rel="stylesheet"/ >
+    <link href="/en/chunkfive/fonts.css" type="text/css" rel="stylesheet"/ >
 ```
 
 5. Set your CSS up to use the new font by using the "Chunk Five" font-family.
