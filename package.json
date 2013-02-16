@@ -1,0 +1,19 @@
+{
+  "Author": "Shane Tomlinson <shane@shanetomlinson.com> (https://shanetomlinson.com)",
+  "name": "connect-fonts-chunkfive",
+  "description": "ChunkFive font set for connect-fonts",
+  "keywords": ["font", "font-face", "CSS", "ChunkFive", "connect-fonts"],
+  "homepage": "https://github.com/shane-tomlinson/connect-fonts-chunkfive",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shane-tomlinson/connect-fonts-chunkfive.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shane-tomlinson/connect-fonts-chunkfive/issues"
+  },
+  "version": "0.0.1-alpha1",
+  "engines": {
+    "node": ">= 0.4.7"
+  },
+  "main": "index"
+}
